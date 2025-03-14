@@ -24,7 +24,7 @@ This project is a web application that includes the front-end design and basic f
 
 ## Images
 
-![Movie Site Demo](//img/demo.gif)
+![Movie Site Demo](./img/demo.gif)
 
 ---
 
